@@ -15,4 +15,5 @@ gcc forgorttenfetch.c -o forgorttenfetch
 
 then copy it to somewhere in ur $PATH
 
-------------------
+----thats-it------
+
